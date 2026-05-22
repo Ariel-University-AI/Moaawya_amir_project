@@ -70,6 +70,11 @@ pandas, numpy, scikit-learn, streamlit, plotly
 
 ---
 
+## 🚀 Live Demo
+👉 [פתח את האפליקציה](https://geodata-qyf7cxgvztb4gm59ru3qer.streamlit.app/)
+
+---
+
 ## הוראות התקנה
 ```bash
 pip install -r requirements.txt
