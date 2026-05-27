@@ -1,3 +1,10 @@
+
+---
+
+## 🚀 Live Demo
+👉 [פתח את האפליקציה]https://geodata-cdbjbbrk6zk2tv46yi2fpj.streamlit.app/
+
+---
 # QuakeAnalyze — Intelligent Earthquake Risk Classification
 
 אפליקציית Data Science לסיווג רעידות אדמה לרמות סיכון (נמוכה / בינונית / גבוהה) על בסיס נתונים סייסמיים אמיתיים, תוך שימוש במודלים של למידת מכונה.
@@ -68,12 +75,6 @@ pandas, numpy, scikit-learn, streamlit, plotly
 
 3. כמשתמש באפליקציה, אני רוצה להזין או לבחור נתוני רעידת אדמה ולקבל סיווג מיידי וברור, כדי להבין במהירות את רמת הסיכון ללא צורך בניתוח נתונים מורכב.  
 
----
-
-## 🚀 Live Demo
-👉 [פתח את האפליקציה](https://geodata-qyf7cxgvztb4gm59ru3qer.streamlit.app/)
-
----
 
 ## הוראות התקנה
 ```bash
